@@ -3,6 +3,13 @@
  This app is an asynchronous web app that uses Web API and user data to dynamically update the UI in a Weather Journal application ,it's a part
  of udacity Professional Nanodegree
  
+# Technology Used 
+* Html
+* Css
+* JavaScript
+* Express 
+
+ 
  ## project files
  *  server.js
  * website which has
